@@ -113,9 +113,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/abhinaykhalatkar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinaykhalatkar&show_icons=true&locale=en&theme=algolia" alt="abhinaykhalatkar" height="192px"/></a>
-	</p>
+
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaykhalatkar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abhinaykhalatkar" height="192px"/>
 	</p>
