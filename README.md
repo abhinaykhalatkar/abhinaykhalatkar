@@ -111,9 +111,8 @@
 ## 📊 Github Stats (Expand to View)
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+    <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaykhalatkar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abhinaykhalatkar" height="192px"/>
 	</p>
