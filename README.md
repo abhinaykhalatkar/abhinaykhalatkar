@@ -26,7 +26,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/abhinaykhalatkar"><img alt="Abhinay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaykhalatkar&custom_title=Abhinay%20Khalatkar's%20Contribution%20Graph&theme=react-light" /></a>
+	<a href="https://github.com/abhinaykhalatkar"><img alt="Abhinay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaykhalatkar&custom_title=Abhinay%20Khalatkar's%20Contribution%20Graph&theme=tokyo-night" /></a>
   <br/>
 
 </details>
