@@ -7,7 +7,7 @@
 <br>
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaykhalatkar&theme=algolia" alt="abhinaykhalatkar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaykhalatkar&theme=tokyonight" alt="abhinaykhalatkar" /></p>
 
 
 ## 📊 Github Stats (Expand to View)
