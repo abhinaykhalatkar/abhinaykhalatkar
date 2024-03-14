@@ -5,8 +5,6 @@
 <hr/>
 <h4 align="center"> I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinaykhalatkar&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
-
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaykhalatkar&theme=algolia" alt="abhinaykhalatkar" /></p>
@@ -86,31 +84,6 @@
 </p>
 
 
-### 👉Graphic Designing
-<p align="left">
-  &emsp;  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
-&emsp; 
- </p>
-
 ### 👉 Software & Tools
 
 <p>
@@ -131,8 +104,6 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
- &emsp; 
 </p>
 
 <br/>
@@ -143,10 +114,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/abhinaykhalatkar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinaykhalatkar&show_icons=true&locale=en&theme=algolia" alt="abhinaykhalatkar" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinaykhalatkar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abhinaykhalatkar" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -156,7 +127,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+	<a href="https://github.com/abhinaykhalatkar"><img alt="Abhinay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaykhalatkar&custom_title=Abhinay%20Khalatkar's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
