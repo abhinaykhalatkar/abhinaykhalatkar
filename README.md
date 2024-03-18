@@ -5,10 +5,6 @@
 <hr/>
 <h4 align="center"> I'm a motivated full-stack developer with a solid understanding of front-end technologies and software development. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br>
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaykhalatkar&theme=" alt="abhinaykhalatkar" /></p>
-
 
 ## 📊 Github Stats (Expand to View)
 
